@@ -7,7 +7,7 @@ An identifier of the subject who carried out the experiment.
 "activity"      
 The activity the subject was performing. 
 
-All the remaining variables are of the form: avg_<original measurement>. Each represents the mean of the corresponding <original measurement> for this particular "subject" and "activity".
+All the remaining variables are of the form: avg_(original measurement). Each represents the mean of the corresponding <original measurement> for this particular "subject" and "activity".
 
 See the features_info.txt file that comes with the original dataset for more information on what each measurement means. The dataset can be downloaded here: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
