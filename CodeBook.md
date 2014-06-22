@@ -1,12 +1,10 @@
 Code book for tidy_means_std_avg.txt
 ====================================
 
-"subject"
-
+"subject"      
 An identifier of the subject who carried out the experiment.
 
 "activity"      
-
 The activity the subject was performing. 
 
 All the remaining variables are of the form: avg_<original measurement>. Each represents the mean of the corresponding <original measurement> for this particular "subject" and "activity".
